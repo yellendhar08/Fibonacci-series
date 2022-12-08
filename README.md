@@ -1,2 +1,2 @@
-# pibonacci-series
-to check whether the given numbers are in pibonacci series or not
+# Fibonacci-series
+to check whether the given numbers are in Fibonacci series or not
